@@ -1,10 +1,11 @@
+
+// 20 November
+
 #include <bits/stdc++.h>
 using namespace std;
 
 void merge(vector<int> &vec, int low, int mid, int high)
 {
-
-    cout << " merge main call" << endl;
     int left = low;
     int right = mid + 1;
     vector<int> temp;
