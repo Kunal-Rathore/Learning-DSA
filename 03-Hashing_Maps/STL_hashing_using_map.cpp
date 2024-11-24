@@ -1,6 +1,6 @@
 // Hashing is not possible for larger no. like 10^8 and so on so we can use STL (maps) for hashing cause it has key and value which requires less time and space
 
-// Hashing using maps
+// Hashing using maps //
 
 // no. hashing using maps
 //  #include <bits/stdc++.h>
